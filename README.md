@@ -1,2 +1,5 @@
-# Sankey
+# Chicago, IL Sankey Diagram of Lobbying Compensation (2014-2026)
 This figure, by Hayley Baranowski, James D. Milas, Ian Sloey, and Emilio Torres (Loyola University Chicago School of Environmental Sustainability), maps lobbying compensation flows in Chicago (2014–2026). Using Citizens United v. FEC as context, it highlights spending patterns, efficiency, and policy imbalances.
+# Abstract
+Following Citizens United v. FEC (2010), the deregulation of political expenditures has intensified scrutiny of lobbying as a political mechanism. Examining lobbying activity directed toward the City of Chicago from January 2014 through February 2026, we document $6,347,539,463.34 in total reported compensation. Environmental departments comprise 31.1% of total compensation and exhibit a higher bill-pass-rate (83.1%), alongside a 36.1% lower mean per-disclosure compensation than non-environmental counterparts. Based on these findings, we propose three policy pursuits to broaden civic participation and foster equity amid the current judicial landscape.
+Keywords: campaign finance reform, environmental policy, municipal lobbying, lobbying efficiency, Chicago Board of Ethics
